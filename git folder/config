@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[user]
+	name = Julian Passeri
+	email = julian.passeri@gmail.com
+[remote "passe2142.github.io"]
+	url = passe2142.github.io
+	fetch = +refs/heads/*:refs/remotes/passe2142.github.io/*
