@@ -1,6 +1,6 @@
 
 .navbar {
-    padding:  1rem;
+    padding:  2rem;
     background-color: #77a8d8;
 }
 
@@ -325,15 +325,15 @@ h1 {
 
 footer {
     min-height: 500px;
-  }
-  
-  .footer-logo {
+}
+
+.footer-logo {
     height: 80px;
     width: 80px;
     margin: 10px;
-  }
-  
-  .footer-texto {
+}
+
+.footer-texto {
     font-size: 1.5rem;
     padding: 20px;
     margin-bottom: 30px;
