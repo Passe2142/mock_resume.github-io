@@ -1,6 +1,6 @@
 # Mock CV Resume Portfolio
 
-Welcome to my Mock CV Resume Portfolio repository! This project was created as a final project to showcase a mock CV using HTML5, HTML, JavaScript, and CSS.
+Welcome to my Mock Resume Portfolio repository! This project was created as a final project to showcase a mock resume using HTML, CSS and Boostrap.
 
 ## About This Project
 
