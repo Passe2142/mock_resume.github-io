@@ -2,9 +2,8 @@
 
 Welcome to my Mock Resume Portfolio repository! This project was created as a final project to showcase a mock resume using HTML, CSS and Boostrap.
 
-## About This Project
 
-This repository contains a mock CV designed to demonstrate my skills in front-end web development. The mock CV includes the following sections:
+The mock CV includes the following sections:
 
 - **Personal Information**: Basic personal details such as name, contact information, and a profile picture.
 
